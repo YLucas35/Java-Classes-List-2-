@@ -2,7 +2,7 @@ package Java_Lista_2_Se_e_Mod;
 
 import java.util.Scanner;
 
-public class _atividad_8 {
+public class _atividade_8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double numb1, numb2, result;
